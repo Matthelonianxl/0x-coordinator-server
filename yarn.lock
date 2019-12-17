@@ -431,6 +431,15 @@
     bignumber.js "~8.0.2"
     ethereum-types "^2.1.2"
 
+"@0x/types@^2.4.3":
+  version "2.4.3"
+  resolved "https://registry.yarnpkg.com/@0x/types/-/types-2.4.3.tgz#ea014889789e9013fdf48ce97b79f2c016e10fb3"
+  integrity sha512-3z4ca9fb9pyTu9lJhTSll5EuEthkA3tLAayyZixCoCnwi4ok6PJ83PnMMsSxlRY2iXr7QGbrQr6nU64YWk2WjA==
+  dependencies:
+    "@types/node" "*"
+    bignumber.js "~8.0.2"
+    ethereum-types "^2.1.6"
+
 "@0x/typescript-typings@^4.2.1":
   version "4.2.1"
   resolved "https://registry.npmjs.org/@0x/typescript-typings/-/typescript-typings-4.2.1.tgz#cac4adeb73bf40665a1c016ae33516337809c8e7"
@@ -2791,6 +2800,14 @@ ethereum-types@^2.1.2:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/ethereum-types/-/ethereum-types-2.1.2.tgz#7398873e0eede1dd0956a134e1037032f6ed3c14"
   integrity sha512-JsQnroPOsZ81yN75HVzvobosSxjr/59oEdYnydTgnV13Fg9PwS078CtPyBzARXequBl2Hnz4h7f3VF64u8P01A==
+  dependencies:
+    "@types/node" "*"
+    bignumber.js "~8.0.2"
+
+ethereum-types@^2.1.6:
+  version "2.1.6"
+  resolved "https://registry.yarnpkg.com/ethereum-types/-/ethereum-types-2.1.6.tgz#57d9d515fad86ab987c0f6962c4203be37da8579"
+  integrity sha512-xaN5TxLvkdFCGjGfUQ5wV00GHzDHStozP1j+K/YdmUeQXVGiD15cogYPhBVWG3pQJM/aBjtYrpMrjywvKkNC4A==
   dependencies:
     "@types/node" "*"
     bignumber.js "~8.0.2"
