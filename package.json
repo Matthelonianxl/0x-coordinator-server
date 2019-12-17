@@ -52,7 +52,7 @@
         "typescript": "^3.0.3"
     },
     "dependencies": {
-        "@0x/assert": "^2.0.8",
+        "@0x/assert": "^2.1.6",
         "@0x/contract-addresses": "^2.3.0",
         "@0x/contract-wrappers": "^8.0.5",
         "@0x/contracts-erc20": "^2.1.0",
