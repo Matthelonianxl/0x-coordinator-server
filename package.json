@@ -73,7 +73,7 @@
         "jsonschema": "^1.2.4",
         "lodash": "^4.17.11",
         "reflect-metadata": "^0.1.10",
-        "sqlite3": "^4.0.2",
+        "sqlite3": "^5.0.3",
         "typeorm": "0.2.7",
         "websocket": "^1.0.25"
     }
